@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:18:54.031659Z
+addr = 0xd5650
+size = 0x38a
+name = "CNetworkMessages_FindOrCreateNetMessage"
+
+[header]
+name = "CNetworkMessages_FindOrCreateNetMessage"
+addr = 0xd5650
+
+[header.args]

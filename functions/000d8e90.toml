@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:18:54.031704Z
+addr = 0xd8e90
+size = 0x4b
+name = "CNetworkMessages_AllocateAndCopyConstructNetMessageAbstract"
+
+[header]
+name = "CNetworkMessages_AllocateAndCopyConstructNetMessageAbstract"
+addr = 0xd8e90
+
+[header.args]

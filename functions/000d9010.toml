@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:18:55.126636Z
+addr = 0xd9010
+size = 0x124
+name = "CNetworkMessages_FindNetworkGroup"
+
+[header]
+name = "CNetworkMessages_FindNetworkGroup"
+addr = 0xd9010
+
+[header.args]

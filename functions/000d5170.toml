@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:18:54.031655Z
+addr = 0xd5170
+size = 0x118
+name = "CNetworkMessages_RegisterNetworkCategory"
+
+[header]
+name = "CNetworkMessages_RegisterNetworkCategory"
+addr = 0xd5170
+
+[header.args]

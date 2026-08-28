@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:18:54.031642Z
+addr = 0x9c060
+size = 0x8
+name = "CNetworkMessages_IsAdditionalMessageRegistrationAllowed"
+
+[header]
+name = "CNetworkMessages_IsAdditionalMessageRegistrationAllowed"
+addr = 0x9c060
+
+[header.args]

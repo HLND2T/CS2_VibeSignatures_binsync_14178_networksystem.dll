@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:18:55.160399Z
+addr = 0xef290
+size = 0x4ab
+name = "CNetworkSystem_OpenSocket"
+
+[header]
+name = "CNetworkSystem_OpenSocket"
+addr = 0xef290
+
+[header.args]

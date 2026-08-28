@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:18:54.031707Z
+addr = 0xd8ee0
+size = 0x57
+name = "CNetworkMessages_DeallocateNetMessageAbstract"
+
+[header]
+name = "CNetworkMessages_DeallocateNetMessageAbstract"
+addr = 0xd8ee0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-08-28T12:18:55.078224Z
+addr = 0xd7060
+size = 0x2db
+name = "CNetworkMessages_RegisterNetworkFieldSerializer"
+
+[header]
+name = "CNetworkMessages_RegisterNetworkFieldSerializer"
+addr = 0xd7060
+
+[header.args]
